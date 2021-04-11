@@ -1,0 +1,7 @@
+cd .. ---> back to previous directory
+git clone (hyperlink) ---> cloning to device
+git status ----> to know the status
+git pull ---> cloud to computer
+git add . ---> make ready the new files to be uploaded to cloud
+git commit -m "Meassge" ---> Commiting message in Cloud
+git push ---> upload files from local to cloud 
